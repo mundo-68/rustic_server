@@ -30,10 +30,19 @@ Most features are already implemented.
 | Discord       | [![Discord](https://dcbadge.vercel.app/api/server/WRUWENZnzQ)](https://discord.gg/WRUWENZnzQ) |
 | Discussions   | [GitHub Discussions](https://github.com/rustic-rs/rustic/discussions)                         |
 
-## Dependencies
+## Getting Started
 
-Is built using [tide](https://github.com/http-rs/tide),
-[tide-rustls](https://github.com/http-rs/tide-rustls) and
+This application is authored using [Abscissa], a Rust application framework.
+
+For more information, see:
+
+[Documentation]
+
+[Abscissa]: https://github.com/iqlusioninc/abscissa
+[Documentation]: https://docs.rs/abscissa_core/
+
+It is using [tide](https://github.com/http-rs/tide),
+[tide-rustls](https://github.com/http-rs/tide-rustls), as well as
 [tide-http-auth](https://github.com/chrisdickinson/tide-http-auth).
 
 ## Are binaries available?
